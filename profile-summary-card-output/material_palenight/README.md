@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/k8m-git/k8m-git/master/profile-summary-card-output/material_palenight/4-productive-time.svg)
-```
-
-    
